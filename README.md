@@ -1,5 +1,6 @@
 # SP-GCTF-2021
 
+Writeup and working files for SP Gryphons CTF 2021. Note that some files are legitimate malware so please exercise caution when downloading. Recommended to download in a VM.
 
 ## Writeup for Script Kiddie
 
