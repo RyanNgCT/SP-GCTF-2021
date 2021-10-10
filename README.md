@@ -3,6 +3,8 @@
 
 ## Writeup for Script Kiddie
 
+[Solve Script Download](https://github.com/RyanNgCT/SP-GCTF-2021/blob/main/ScriptKiddie/solve.py) 
+
 **Challenge Description:**
 Are you a script kiddie or a math god?
 
