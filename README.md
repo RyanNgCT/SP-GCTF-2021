@@ -125,3 +125,10 @@ while True:
 
 Note that the code causes an exception, but I was lazy to catch that. This gave us our flag at the end (I did not record this down).
 
+
+![Partial Script Image](https://github.com/RyanNgCT/SP-GCTF-2021/blob/main/misc/image.jpeg)
+
+
+## Solves
+
+![img](https://github.com/RyanNgCT/SP-GCTF-2021/blob/main/misc/Solves.png)
