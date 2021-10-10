@@ -15,11 +15,8 @@ while True:
     challenge = bot.recv(1024).decode("utf-8").replace("[", "").replace("]", "")
 
     # tokenize words to list
-    if challenge != []:
-        challenge_splitted = challenge.split()
-    #print(challenge_splitted)
-    else:
-        break
+
+    challenge_splitted = challenge.split()
 
     # initalize variable 
     result = 0
